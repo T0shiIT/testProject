@@ -1,5 +1,5 @@
 #include <iostream>
 
-int maint(){
-    
+int main(){
+    std::cout << "h";
 }
